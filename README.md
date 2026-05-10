@@ -13,10 +13,10 @@ Tools     →  Git, VS Code, Antigrvity, Obsidian
 
 ## What I'm Up To
 
-- 🌱 Learning something new every single day (sometimes twice)
-- 🏗️ Building projects that go from "this won't work" to "wait, it works?!"
-- 📚 Surviving the wild place called "School"
-- 🎯 Goal: write code that future-me won't regret
+- Learning something new every single day (sometimes twice)
+- Building projects that go from "this won't work" to "wait, it works?!"
+- Surviving the wild place called "School"
+- Goal: write code that future-me won't regret
 
 ## Fun Facts
 
