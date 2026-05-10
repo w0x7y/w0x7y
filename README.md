@@ -7,7 +7,7 @@ Welcome to my little corner of GitHub! I'm a **student learning full-stack devel
 - Frontend: HTML, CSS, JavaScript, React
 - Backend: Node.js, Python, APIs, C#
 - Database: SQL, a little NoSQL
-- Tools: Git, VS Code, Antigrvity, Obsidian
+- Tools: Git, VS Code, Antigravity, Obsidian
 
 ## What I'm Up To
 
@@ -22,4 +22,4 @@ Welcome to my little corner of GitHub! I'm a **student learning full-stack devel
 - My favorite animal is a penguin
 
 ## Quote I live by
-*"I Don't Want To Regret Not Trying"* - Ippo Makunouchi
+*"I Don't Want To Regret Not Trying" - Ippo Makunouchi, Hajime no Ippo*
