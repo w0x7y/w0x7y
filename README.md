@@ -1,4 +1,4 @@
-# Hey there! I'm Idan
+# Hey there! I'm Idan 👋
 
 Welcome to my little corner of GitHub! I'm a **student learning full-stack development** - basically, I make things break on both the frontend *and* the backend.
 
