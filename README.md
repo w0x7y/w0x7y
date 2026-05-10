@@ -22,6 +22,5 @@ Welcome to my little corner of GitHub! I'm a **student learning full-stack devel
 - I like watching Anime
 - My favorite animal is a penguin
 
----
 ## Quote I live by
-> *"I Don't Want To Regret Not Trying"* - Ippo Makunouchi
+*"I Don't Want To Regret Not Trying"* - Ippo Makunouchi
