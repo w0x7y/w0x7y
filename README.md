@@ -8,8 +8,7 @@ Welcome to my little corner of GitHub! I'm a **student learning full-stack devel
 Frontend  →  HTML, CSS, JavaScript, React
 Backend   →  Node.js, Python, APIs, C#
 Database  →  SQL, a little NoSQL
-Tools     →  Git (commit -m "fix" x100), VS Code, Antigrvity
-Others    →  Obsidian
+Tools     →  Git, VS Code, Antigrvity, Obsidian
 ```
 
 ## 🚀 What I'm Up To
