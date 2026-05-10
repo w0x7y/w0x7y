@@ -4,12 +4,10 @@ Welcome to my little corner of GitHub! I'm a **student learning full-stack devel
 
 ## What I'm Working With
 
-```
-Frontend  →  HTML, CSS, JavaScript, React
-Backend   →  Node.js, Python, APIs, C#
-Database  →  SQL, a little NoSQL
-Tools     →  Git, VS Code, Antigrvity, Obsidian
-```
+Frontend: HTML, CSS, JavaScript, React
+Backend: Node.js, Python, APIs, C#
+Database: SQL, a little NoSQL
+Tools: Git, VS Code, Antigrvity, Obsidian
 
 ## What I'm Up To
 
@@ -26,4 +24,4 @@ Tools     →  Git, VS Code, Antigrvity, Obsidian
 
 ---
 ## Quote I live by
-> *"𝙸 𝙳𝚘𝚗’𝚝 𝚆𝚊𝚗𝚝 𝚝𝚘 𝚁𝚎𝚐𝚛𝚎𝚝 𝙽𝚘𝚝 𝚃𝚛𝚢𝚒𝚗𝚐"* - 𝙸𝚙𝚙𝚘 𝙼𝚊𝚔𝚞𝚗𝚘𝚞𝚌𝚑𝚒
+> *"I Don't Want To Regret Not Trying"* - Ippo Makunouchi
