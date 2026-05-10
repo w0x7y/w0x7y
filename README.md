@@ -11,10 +11,9 @@ Welcome to my little corner of GitHub! I'm a **student learning full-stack devel
 
 ## What I'm Up To
 
-- Learning something new every single day (sometimes twice)
-- Building projects that go from "this won't work" to "wait, it works?!"
+- Hitting people. (I should have put the "Fun Facts" section before this one)
 - Surviving the wild place called "School"
-- Goal: write code that future-me won't regret
+- Making software that I will actually use
 
 ## Fun Facts
 
