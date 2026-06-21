@@ -5,7 +5,7 @@ Welcome to my little corner of GitHub! I'm a **student learning full-stack devel
 ## What I'm Working With
 
 - Frontend: HTML, CSS, JavaScript, React
-- Backend: Node.js, Python, APIs, C#
+- Backend: Node.js, Python, APIs, C#, C++
 - Database: SQL, a little NoSQL
 - Tools: Git, VS Code, Antigravity, Obsidian
 
