@@ -4,16 +4,16 @@ Welcome to my little corner of GitHub! I'm a **student learning full-stack devel
 
 ## What I'm Working With
 
-- Frontend: HTML, CSS, JavaScript, React
-- Backend: Python, APIs, C#, C++
-- Database: SQL, a little NoSQL
-- Tools: Git, VS Code, Zed, AI
+- Frontend: HTML,HTMX, CSS, TailWind, JavaScript, TypeScript, React
+- Backend: Python, C#, C++
+- Database: SQL, Supabase
+- Tools: Git, GitHub, Figma, Zed, AI
 
 ## What I'm Up To
 
 - Hitting people. (I should have put the "Fun Facts" section before this one)
-- Surviving the wild place called "School"
-- Making software that I will actually use
+- Living life the best way I could
+- Making software that me and others will actually use
 
 ## Fun Facts
 
