@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 620" width="1000" height="620" role="img" aria-label="Typewriter Intro">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 101 1000 519" width="1000" height="519" role="img" aria-label="Typewriter Intro">
   <defs>
     <filter id="ti-shadow" x="-10%" y="-10%" width="120%" height="130%">
       <feGaussianBlur in="SourceAlpha" stdDeviation="22"/>
@@ -19,11 +19,6 @@
     
     
   </g>
-
-  <!-- Traffic lights -->
-  
-  
-  
 
   <!-- Window title -->
   <text x="500" y="123" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="16" fill="#f6f5f4" letter-spacing="2">idangilboa - root</text>
@@ -64,7 +59,6 @@
   <!-- Status strip, inside the window rather than sitting on its edge. -->
   <rect x="0" y="585" width="1000" height="35" rx="0" fill="#171a26" ry="0" stroke="#171a26"/>
   
-  <line x1="80" y1="358" x2="1120" y2="358" stroke="#0a0c14" stroke-width="0.6"/>
   <g transform="translate(80,373)" font-family="'JetBrains Mono', monospace" font-size="10" fill="#5a5f7a">
     <text fill="#f6f5f4" font-size="16" y="235" x="-73">Kitty</text>
     <text y="235" fill="#f6f5f4" font-size="16" x="874">fish</text>
