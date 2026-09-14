@@ -13,11 +13,9 @@
 
   <!-- Terminal window -->
   <g filter="url(#ti-shadow)">
-    <rect x="0" y="0" width="1000" height="620" rx="14" fill="#11131c" ry="0"/>
+    <rect x="0" y="0" width="1000" height="620" rx="14" fill="#0a0d11" ry="0"/>
     <!-- Title bar -->
     <rect x="0" y="101" width="1000" height="35" rx="0" fill="#171a26" ry="0" stroke="#171a26"/>
-    
-    
   </g>
 
   <!-- Window title -->
