@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="360" viewBox="0 0 250 90" role="img" aria-labelledby="title desc" shape-rendering="crispEdges">
+  <title id="title">Pixel aquarium</title>
+  <desc id="desc">Orange, blue, and pink fish swim through a dark aquarium with green plants, a rocky shelter, and rising bubbles in a seamless loop.</desc>
+  <style>
+    .swim-right { animation: right 24s linear infinite; }
+    .swim-left { animation: left 24s linear infinite; }
+    .bob { animation: bob 4s ease-in-out infinite; }
+    .bubble { animation: rise 8s linear infinite; }
+    .plant { animation: sway 4s ease-in-out infinite; }
+    @keyframes right { from { transform: translateX(-36px); } to { transform: translateX(284px); } }
+    @keyframes left { from { transform: translateX(284px); } to { transform: translateX(-36px); } }
+    @keyframes bob { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-2px); } }
+    @keyframes rise { 0% { transform: translateY(0); opacity: 0; } 8%, 85% { opacity: .7; } 100% { transform: translateY(-64px); opacity: 0; } }
+    @keyframes sway { 0%, 100% { transform: skewX(-2deg); } 50% { transform: skewX(2deg); } }
+    @media (prefers-reduced-motion: reduce) {
+      .swim-right, .swim-left, .bob, .bubble, .plant { animation: none; }
+    }
+  </style>
+  <defs>
+    <clipPath id="water"><rect x="5" y="10" width="240" height="72"/></clipPath>
+    <!-- Each sprite is drawn on a one-unit pixel grid, facing right. -->
+    <g id="fish">
+      <path d="M0 3h2v2h2V3h3V1h6v2h4v2h2v5h-2v2h-4v2H7v-2H4v-2H2v2H0Z" fill="currentColor"/>
+      <path d="M7 3h6v2H7zM5 5h2v3H5z" fill="#fff0bd" opacity=".7"/>
+      <path d="M7 10h6v2H7zM0 5h2v5H0z" fill="#0a2033" opacity=".3"/>
+      <path d="M14 5h2v2h-2z" fill="#091521"/>
+      <path d="M9 7h3v3H9z" fill="#fff0bd" opacity=".5"/>
+    </g>
+    <g id="weed">
+      <path d="M0 0v-10h-3v-8h-3v-9h3v7h3v7h2v-19h3v-8h3v10H5v18h3v-8h3v-6h3v9h-3v8H6V0Z" fill="#237c70"/>
+      <path d="M2 0v-25h2V0ZM5-29v-8h2v8ZM-4-25h2v8h-2zM9-22h2v5H9z" fill="#65c793"/>
+    </g>
+    <g id="bubble" fill="none" stroke="#91dce5" stroke-width="1">
+      <path d="M1 0h2v1h1v2H3v1H1V3H0V1h1Z"/>
+    </g>
+  </defs>
+  <!-- Dark frame echoes the README terminal. -->
+  <path fill="#0a0d11" d="M0 0h250v90H0z"/>
+  <path fill="#171a26" d="M0 0h250v6H0zM0 84h250v6H0z"/>
+  <path fill="#27384a" d="M3 7h244v77H3z"/>
+  <path fill="#0c2435" d="M5 10h240v72H5z"/>
+  <g clip-path="url(#water)">
+    <path fill="#103043" d="M5 10h240v20H5z"/>
+    <path fill="#12394b" d="M5 10h240v3H5z"/>
+    <path fill="#4f95a0" opacity=".35" d="M10 13h34v1H10zM60 13h48v1H60zM134 13h26v1h-26zM186 13h50v1h-50z"/>
+    <path fill="#184050" opacity=".45" d="M30 14h12v6h-4v7h-4v8h-4zM170 14h18v8h-5v8h-5v8h-8z"/>
+    <path fill="#193b46" d="M5 70h13v-3h17v4h21v-3h17v5h27v-3h25v2h27v-4h24v3h31v-4h21v3h17v12H5Z"/>
+    <g transform="translate(24 78)"><g class="plant"><use href="#weed"/></g></g>
+    <g transform="translate(39 79) scale(.7)"><g class="plant" style="animation-delay:-2s"><use href="#weed"/></g></g>
+    <g transform="translate(218 78)"><g class="plant" style="animation-delay:-1s"><use href="#weed"/></g></g>
+    <g transform="translate(232 79) scale(.6)"><g class="plant"><use href="#weed"/></g></g>
+    <!-- Stepped stone arch and its shaded opening. -->
+    <path fill="#45596a" d="M150 78V63h4v-7h6v-4h18v4h6v7h4v15Z"/>
+    <path fill="#657888" d="M154 63v-7h6v-4h18v4h-17v3h-4v4Z"/>
+    <path fill="#081c2b" d="M161 78V65h3v-4h9v4h4v13Z"/>
+    <path fill="#304653" d="M180 62h4v10h-4zM151 73h7v3h-7z"/>
+    <!-- Negative delays populate the aquarium as soon as it opens. -->
+    <g class="swim-right" style="animation-delay:-7s" transform="translate(58 0)"><g transform="translate(0 27)" color="#f6ad58"><g class="bob"><use href="#fish"/></g></g></g>
+    <g class="swim-left" style="animation-delay:-10s" transform="translate(151 0)"><g transform="translate(0 43) scale(-.8 .8)" color="#7dcfff"><g class="bob"><use href="#fish"/></g></g></g>
+    <g class="swim-right" style="animation-delay:-16s" transform="translate(177 0)"><g transform="translate(0 20) scale(.65)" color="#eb8fb8"><g class="bob"><use href="#fish"/></g></g></g>
+    <g class="swim-left" style="animation-delay:-17s" transform="translate(57 0)"><g transform="translate(0 56) scale(-.55 .55)" color="#a798ed"><g class="bob"><use href="#fish"/></g></g></g>
+    <g transform="translate(132 75)"><g class="bubble"><use href="#bubble"/></g></g>
+    <g transform="translate(136 75)"><g class="bubble" style="animation-delay:-3s"><use href="#bubble"/></g></g>
+    <g transform="translate(130 75)"><g class="bubble" style="animation-delay:-6s"><use href="#bubble"/></g></g>
+    <g transform="translate(204 74)"><g class="bubble" style="animation-delay:-4s"><use href="#bubble"/></g></g>
+    <path fill="#b5a585" d="M5 78h31v-1h24v2h47v-2h31v1h50v-1h29v1h28v6H5Z"/>
+    <path fill="#776e63" d="M12 80h3v1h-3zM28 82h5v1h-5zM49 79h2v1h-2zM69 81h4v1h-4zM93 80h2v2h-2zM113 81h5v1h-5zM147 80h3v1h-3zM174 82h5v1h-5zM195 79h3v1h-3zM225 81h4v1h-4zM239 80h2v1h-2z"/>
+    <path fill="#dfcc9e" d="M18 79h4v1h-4zM77 80h3v1h-3zM120 78h5v1h-5zM183 79h4v1h-4zM211 80h3v1h-3z"/>
+  </g>
+  <path fill="#75b3c4" opacity=".3" d="M6 16h1v50H6zM243 16h1v50h-1z"/>
+  <path fill="#384359" d="M8 86h234v1H8z"/>
+</svg>
