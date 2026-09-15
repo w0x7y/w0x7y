@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="520" viewBox="0 0 1000 520" role="img" aria-labelledby="title description">
+  <title id="title">idangilboa@github: ~</title>
+  <desc id="description">A Fastfetch-style terminal with an ASCII emblem and an animated personal profile. The fields are profile details, not system specifications.</desc>
+  <style>
+    text { font-family: 'JetBrains Mono', 'DejaVu Sans Mono', monospace; }
+    .cursor { animation: blink 1.1s steps(1,end) infinite; }
+    @keyframes blink { 0%,49% { opacity:1; } 50%,100% { opacity:0; } }
+    .line-0 { animation: line0 14s steps(1,end) infinite; } @keyframes line0 { 0%,3% { opacity: 0; } 6.2%,100% { opacity: 1; } }
+    .line-1 { animation: line1 14s steps(1,end) infinite; } @keyframes line1 { 0%,7% { opacity: 0; } 10.2%,100% { opacity: 1; } }
+    .line-2 { animation: line2 14s steps(1,end) infinite; } @keyframes line2 { 0%,11% { opacity: 0; } 14.2%,100% { opacity: 1; } }
+    .line-3 { animation: line3 14s steps(1,end) infinite; } @keyframes line3 { 0%,15% { opacity: 0; } 18.2%,100% { opacity: 1; } }
+    .line-4 { animation: line4 14s steps(1,end) infinite; } @keyframes line4 { 0%,19% { opacity: 0; } 22.2%,100% { opacity: 1; } }
+    .line-5 { animation: line5 14s steps(1,end) infinite; } @keyframes line5 { 0%,23% { opacity: 0; } 26.2%,100% { opacity: 1; } }
+    .line-6 { animation: line6 14s steps(1,end) infinite; } @keyframes line6 { 0%,27% { opacity: 0; } 30.2%,100% { opacity: 1; } }
+    .line-7 { animation: line7 14s steps(1,end) infinite; } @keyframes line7 { 0%,31% { opacity: 0; } 34.2%,100% { opacity: 1; } }
+    @media (prefers-reduced-motion: reduce) {
+      *, *::before, *::after { animation: none !important; }
+      .reveal { opacity: 1 !important; clip-path: none !important; }
+    }
+  </style>
+  <rect x="0" y="0" width="1000" height="520" fill="#0a0d11" rx="12"/>
+  <rect x="0" y="0" width="1000" height="42" fill="#171a26" />
+  <circle cx="22" cy="21" r="5" fill="#fa7970"/><circle cx="40" cy="21" r="5" fill="#eac55f"/><circle cx="58" cy="21" r="5" fill="#91cb88"/>
+  <text x="500" y="27" fill="#8b949e" font-size="14" text-anchor="middle">idangilboa@github: ~</text>
+  <text x="32" y="83" fill="#b49af5" font-size="18" >w0x7y@github</text><text x="192" y="83" fill="#93ccff" font-size="18" >~</text><text x="32" y="115" fill="#c9d1d9" font-size="18" >❯ fastfetch</text><text x="45" y="185" fill="#93ccff" font-size="24" xml:space="preserve">        /\        </text><text x="45" y="217" fill="#93ccff" font-size="24" xml:space="preserve">       /  \       </text><text x="45" y="249" fill="#93ccff" font-size="24" xml:space="preserve">      / /\ \      </text><text x="45" y="281" fill="#93ccff" font-size="24" xml:space="preserve">     / /  \ \     </text><text x="45" y="313" fill="#93ccff" font-size="24" xml:space="preserve">    / / /\ \ \    </text><text x="45" y="345" fill="#93ccff" font-size="24" xml:space="preserve">   / / ____ \ \   </text><text x="45" y="377" fill="#93ccff" font-size="24" xml:space="preserve">  /_/ /    \ \_\  </text><text x="421" y="166" fill="#b49af5" font-size="23" >w0x7y@github</text><text x="421" y="193" fill="#8b949e" font-size="18" >────────────</text><g class="reveal line-0">
+<text x="421" y="226" fill="#93ccff" font-size="16" >Name</text>
+<text x="539" y="226" fill="#c9d1d9" font-size="16" >Idan Gilboa</text>
+</g><g class="reveal line-1">
+<text x="421" y="255" fill="#93ccff" font-size="16" >Role</text>
+<text x="539" y="255" fill="#c9d1d9" font-size="16" >Fullstack Developer</text>
+</g><g class="reveal line-2">
+<text x="421" y="284" fill="#93ccff" font-size="16" >Location</text>
+<text x="539" y="284" fill="#c9d1d9" font-size="16" >Israel</text>
+</g><g class="reveal line-3">
+<text x="421" y="313" fill="#93ccff" font-size="16" >Learning</text>
+<text x="539" y="313" fill="#c9d1d9" font-size="16" >Rust / Go</text>
+</g><g class="reveal line-4">
+<text x="421" y="342" fill="#93ccff" font-size="16" >Building</text>
+<text x="539" y="342" fill="#c9d1d9" font-size="16" >Driving instructor website</text>
+</g><g class="reveal line-5">
+<text x="421" y="371" fill="#93ccff" font-size="16" >Website</text>
+<text x="539" y="371" fill="#c9d1d9" font-size="16" >w0x7y.github.io</text>
+</g><g class="reveal line-6">
+<text x="421" y="400" fill="#93ccff" font-size="16" >Contact</text>
+<text x="539" y="400" fill="#c9d1d9" font-size="16" >idangilb@gmail.com</text>
+</g><g class="reveal line-7">
+<rect x="421" y="445" width="27" height="14" fill="#171a26" rx="2"/>
+<rect x="453" y="445" width="27" height="14" fill="#8b949e" rx="2"/>
+<rect x="485" y="445" width="27" height="14" fill="#b49af5" rx="2"/>
+<rect x="517" y="445" width="27" height="14" fill="#93ccff" rx="2"/>
+<rect x="549" y="445" width="27" height="14" fill="#9ed5ac" rx="2"/>
+<rect x="581" y="445" width="27" height="14" fill="#fcdb6e" rx="2"/>
+<rect x="613" y="445" width="27" height="14" fill="#fa7970" rx="2"/>
+<rect x="645" y="445" width="27" height="14" fill="#c9d1d9" rx="2"/>
+</g>
+  <rect x="0" y="484" width="1000" height="36" fill="#171a26" />
+  <text x="22" y="507" fill="#8b949e" font-size="14" xml:space="preserve">fish  •  kitty                                                   profile / fastfetch</text>
+</svg>
