@@ -4,7 +4,7 @@
 
 # Hi, I'm Idan
 
-I'm a student and full-stack developer from Israel. Down to code.
+I'm a <!--AGE_START-->16<!--AGE_END--> student and full-stack developer from Israel. Down to code.
 
 ## Currently
 
