@@ -26,11 +26,6 @@ I'm a student and full-stack developer from Israel. Down to code.
 
 [![Tools and platforms](https://skillicons.dev/icons?i=git,github,linux,bash,supabase&theme=dark&perline=5)](https://skillicons.dev)
 
-### AI agents
-
-![ChatGPT](https://img.shields.io/badge/ChatGPT-171a26?style=for-the-badge&logo=openai&logoColor=FFFFFF)
-![Claude](https://img.shields.io/badge/Claude-171a26?style=for-the-badge&logo=claude&logoColor=D97757)
-
 ## Contact
 
 - Website: [w0x7y.github.io](https://w0x7y.github.io)
