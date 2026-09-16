@@ -2,11 +2,11 @@
   <img src="./assets/pixel-aquarium.svg" alt="Animated pixel-art aquarium with colorful fish, aquatic plants, and rising bubbles" width="100%" />
 </p>
 
-## About me
+# Hi, I'm Idan
 
-I'm Idan Gilboa, a 16-year-old fullstack developer from Israel. Down to code.
+I'm a student and full-stack developer from Israel. Down to code.
 
-### Currently
+## Currently
 
 - Surviving school
 - Learning Rust and Go
@@ -14,13 +14,17 @@ I'm Idan Gilboa, a 16-year-old fullstack developer from Israel. Down to code.
 
 ## Languages and tools
 
-### Languages
+### Main stack
 
-[![Languages](https://skillicons.dev/icons?i=js,ts,html,css,py,rust,c,cpp,cs,bash&theme=dark&perline=10)](https://skillicons.dev)
+[![Main stack](https://skillicons.dev/icons?i=js,ts,html,css,py&theme=dark&perline=5)](https://skillicons.dev)
+
+### Exploring
+
+[![Exploring](https://skillicons.dev/icons?i=rust,go,c,cpp,cs&theme=dark&perline=5)](https://skillicons.dev)
 
 ### Tools and platforms
 
-[![Tools and platforms](https://skillicons.dev/icons?i=git,github,linux,supabase&theme=dark&perline=4)](https://skillicons.dev)
+[![Tools and platforms](https://skillicons.dev/icons?i=git,github,linux,bash,supabase&theme=dark&perline=5)](https://skillicons.dev)
 
 ## Contact
 
