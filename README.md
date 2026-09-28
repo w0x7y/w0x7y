@@ -16,11 +16,11 @@ I'm a <!--AGE_START-->16<!--AGE_END--> student and full-stack developer from Isr
 
 ### Main stack
 
-[![Main stack](https://skillicons.dev/icons?i=js,ts,html,css,py&theme=dark&perline=5)](https://skillicons.dev)
+[![Main stack](https://skillicons.dev/icons?i=js,ts,html,css,py,cs&theme=dark&perline=5)](https://skillicons.dev)
 
 ### Exploring
 
-[![Exploring](https://skillicons.dev/icons?i=rust,go,c,cpp,cs&theme=dark&perline=5)](https://skillicons.dev)
+[![Exploring](https://skillicons.dev/icons?i=react,rust,go,c,cpp&theme=dark&perline=5)](https://skillicons.dev)
 
 ### Tools and platforms
 
