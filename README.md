@@ -20,11 +20,14 @@ I'm a <!--AGE_START-->16<!--AGE_END--> student and full-stack developer from Isr
 
 ### Exploring
 
-[![Exploring](https://skillicons.dev/icons?i=react,rust,go,c,cpp&theme=dark&perline=5)](https://skillicons.dev)
+[![Exploring](https://skillicons.dev/icons?i=react,tailwind,rust,go,c,cpp&theme=dark&perline=5)](https://skillicons.dev)
 
 ### Tools and platforms
 
 [![Tools and platforms](https://skillicons.dev/icons?i=git,github,linux,bash,supabase&theme=dark&perline=5)](https://skillicons.dev)
+
+## Development Environment
+[![Development Environment](https://skillicons.dev/icons?i=arch,neovim,obsidian&theme=dark&perline=5)](https://skillicons.dev)
 
 ## Contact
 
