@@ -24,7 +24,7 @@ I'm a <!--AGE_START-->16<!--AGE_END--> student and full-stack developer from Isr
 
 ### Tools and platforms
 
-[![Tools and platforms](https://skillicons.dev/icons?i=git,github,linux,bash,supabase&theme=dark&perline=5)](https://skillicons.dev)
+[![Tools and platforms](https://skillicons.dev/icons?i=git,github,linux,bash,supabase,vercel,bun&theme=dark&perline=5)](https://skillicons.dev)
 
 ## Contact
 
