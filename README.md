@@ -16,7 +16,7 @@ I'm a <!--AGE_START-->16<!--AGE_END--> student and full-stack developer from Isr
 
 ### Main stack
 
-[![Main stack](https://skillicons.dev/icons?i=js,ts,html,css,react,tailwind,py,cs,java&theme=dark&perline=5)](https://skillicons.dev)
+[![Main stack](https://skillicons.dev/icons?i=js,ts,html,css,sql,react,tailwind,py,cs,java&theme=dark&perline=5)](https://skillicons.dev)
 
 ### Exploring
 
