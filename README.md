@@ -28,5 +28,5 @@ I'm a <!--AGE_START-->16<!--AGE_END--> student and full-stack developer from Isr
 
 ## Contact
 
-- Website: [w0x7y.github.io](https://w0x7y.github.io)
+- Website: [w0x7y.dev](https://w0x7y.dev)
 - Email: [idangilb@gmail.com](mailto:idangilb@gmail.com)
