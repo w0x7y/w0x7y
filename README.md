@@ -30,3 +30,6 @@ I'm a <!--AGE_START-->16<!--AGE_END--> student and full-stack developer from Isr
 
 - Website: [w0x7y.dev](https://w0x7y.dev)
 - Email: [idangilb@gmail.com](mailto:idangilb@gmail.com)
+
+### Config
+[w0x7y.dots](https://github.com/w0x7y/w0x7y.dots)
