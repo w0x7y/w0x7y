@@ -8,9 +8,9 @@ I'm a <!--AGE_START-->16<!--AGE_END--> student and full-stack developer from Isr
 
 ## Currently
 
-- Surviving school
-- Learning Rust and Go
-- Creating a website for my driving instructor
+~ Surviving school
+~ Learning Rust and Go
+~ Working on personal projects
 
 ## Languages and tools
 
